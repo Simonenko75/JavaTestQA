@@ -20,4 +20,5 @@ public class ControllerTests {
     public void contextLoads() throws Exception {
         assertThat(controller).isNotNull();
     }
+
 }
